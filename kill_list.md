@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Code without unit tests
 * Poor code review
+* Broken CodeSchool exercises
